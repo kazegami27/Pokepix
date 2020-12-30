@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681865295435",
+    "firebase_url": "https://pixelart-d2868.firebaseio.com",
+    "project_id": "pixelart-d2868",
+    "storage_bucket": "pixelart-d2868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681865295435:android:6374c07f003aae17a77fce",
+        "android_client_info": {
+          "package_name": "egame.pixelart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681865295435-h16kdfgudvtvrmmgdopn75asontolvvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQ3tWhYfhpmYOICak5g7vdfH0hMK3VB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681865295435-h16kdfgudvtvrmmgdopn75asontolvvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
